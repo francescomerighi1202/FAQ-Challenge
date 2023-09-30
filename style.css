@@ -45,7 +45,7 @@ body {
     display: flex;
     justify-content: flex-end;
     position: relative;
-    padding: 4rem;
+    padding: 5rem;
     align-items: center;
     width: min(1000px, 90%);
     border-radius: 20px;
